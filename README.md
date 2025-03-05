@@ -1,2 +1,13 @@
-# Aplikasi-Analisis-Data
-Membuat projek aplikasi visualisasi data Dicoding
+# Dicoding Collection Dashboard ✨
+
+## Setup Environment - Anaconda
+```
+cd ~/Desktop
+cd dashboard
+conda activate streamlit_env
+```
+
+## Run steamlit app
+```
+streamlit run dashboard.py
+```
